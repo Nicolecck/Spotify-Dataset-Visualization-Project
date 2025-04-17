@@ -3,7 +3,7 @@
 
 🎓 I’m a Statistics & Data Science major from Hong Kong with a passion for uncovering stories hidden in data.
 
-📊 Recently, I worked on a project with my friends, exploring over 2,000 Spotify songs from 2000–2019 to analyze trends in popularity, danceability, tempo, and genre — using Python, pandas, and data visualizations.  
+📊 Recently, I worked on a project with my friends, exploring over 2,000 Spotify songs from 2000–2019 to analyze trends in popularity, danceability, tempo, and genre — using Python, pandas, and data visualizations.  My task in this project is to analyse the correlation between popularity and danceability between songs.
 🎶 Music analytics showed me how data shapes the way we understand culture, and I loved every bit of it.
 
 💡 I'm especially interested in:
